@@ -1,0 +1,283 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ed6461e0-7460-40ff-a6c0-af686ac11358")
+	(paper "A4")
+	(title_block
+		(title "Author:Anshaj Malhotra")
+		(date "05-06-2025")
+	)
+	(lib_symbols)
+	(sheet
+		(at 88.9 19.05)
+		(size 62.23 39.37)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0532e562-852f-43b5-9615-2a826cc8edae")
+		(property "Sheetname" "voltage_measure"
+			(at 88.9 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "voltage_measure.kicad_sch"
+			(at 88.9 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 181.61 80.01)
+		(size 86.36 57.15)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "05df26be-6e6f-47ea-9754-790f0a55fc7b")
+		(property "Sheetname" "mcu"
+			(at 181.61 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 181.61 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 135.89)
+		(size 114.3 52.07)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3e60c9e6-59e5-4552-827d-750169397819")
+		(property "Sheetname" "connectors"
+			(at 31.75 135.1784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 31.75 188.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 19.05)
+		(size 64.77 39.37)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5d1014dc-d550-48a6-bd82-241f912d061a")
+		(property "Sheetname" "power"
+			(at 16.51 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 16.51 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 19.05)
+		(size 76.2 43.18)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7d5f4092-e4c7-446d-a4a3-5a0ca06d87d3")
+		(property "Sheetname" "current_measure"
+			(at 160.02 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "current_measure.kicad_sch"
+			(at 160.02 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 74.93)
+		(size 74.93 52.07)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "875c0f0a-7493-4f58-91b5-43f28d9ac93f")
+		(property "Sheetname" "adc"
+			(at 20.32 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "adc.kicad_sch"
+			(at 20.32 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 74.93)
+		(size 62.23 53.34)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ab8ee58e-0494-466c-8111-97d6fda82d67")
+		(property "Sheetname" "isolation"
+			(at 105.41 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "isolation.kicad_sch"
+			(at 105.41 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

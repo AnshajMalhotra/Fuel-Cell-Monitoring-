@@ -1,0 +1,245 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ed6461e0-7460-40ff-a6c0-af686ac11358")
+	(paper "A4")
+	(title_block
+		(title "Anshaj Malhotra")
+		(date "2025-07-01")
+	)
+	(lib_symbols)
+	(sheet
+		(at 88.9 19.05)
+		(size 62.23 39.37)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0532e562-852f-43b5-9615-2a826cc8edae")
+		(property "Sheetname" "voltage_ref"
+			(at 88.9 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "voltage_measure.kicad_sch"
+			(at 88.9 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.362 77.216)
+		(size 71.628 52.324)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4818ae65-e4bc-45e5-a3dd-7687ba5a1b0b")
+		(property "Sheetname" "Data transmission"
+			(at 102.362 76.5044 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Data_Transmission_Main.kicad_sch"
+			(at 102.362 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 19.05)
+		(size 64.77 39.37)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5d1014dc-d550-48a6-bd82-241f912d061a")
+		(property "Sheetname" "power"
+			(at 16.51 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 16.51 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 19.05)
+		(size 76.2 43.18)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7d5f4092-e4c7-446d-a4a3-5a0ca06d87d3")
+		(property "Sheetname" "current_measure"
+			(at 160.02 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "current_measure.kicad_sch"
+			(at 160.02 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 74.93)
+		(size 74.93 52.07)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "875c0f0a-7493-4f58-91b5-43f28d9ac93f")
+		(property "Sheetname" "voltage_measurement"
+			(at 20.32 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "adc.kicad_sch"
+			(at 20.32 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 180.086 76.962)
+		(size 88.138 50.546)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fc2fece9-37f9-4660-85ba-954b036a46ba")
+		(property "Sheetname" "ADC_Main"
+			(at 180.086 76.2504 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ADC_Main.kicad_sch"
+			(at 180.086 128.0926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project_Seminar_SS2025"
+				(path "/ed6461e0-7460-40ff-a6c0-af686ac11358"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
